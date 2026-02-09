@@ -1,3 +1,3 @@
 #Memory-Management-Simulation-Java
 
-Fundamental software design labs exploring class structures and memory management. 
+Java-based system simulation focusing on object lifecycle management, memory allocation strategies, and robust error handling mechanisms.
